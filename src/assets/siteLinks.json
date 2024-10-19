@@ -5,6 +5,11 @@
     "link": "https://blog.haloged.top/"
   },
   {
+    "icon": "Writing",
+    "name": "一言生成器",
+    "link": "https://github.com/haloged/get_hitokoto"
+  },
+  {
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.haloged.top/"
